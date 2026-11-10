@@ -24,6 +24,4 @@ Wu, T., Kong, J., & Shen, X. (2026). Neighborhood socio-racial composition and t
 
 Python (GeoPandas, PySAL/spreg, statsmodels) · ArcGIS / QGIS · Rhino / Grasshopper · Adobe Suite
 
-[CV](LINK) 
-[Design portfolio](LINK) 
-tw595@cornell.edu
+[CV](LINK) · [Design portfolio](LINK) · tw595@cornell.edu
