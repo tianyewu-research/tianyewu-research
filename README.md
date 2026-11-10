@@ -25,4 +25,4 @@ M.L.A. candidate, Cornell University (2027) · B.Des., Shanghai Jiao Tong Univer
 
 Python (GeoPandas, PySAL/spreg, statsmodels) · ArcGIS / QGIS · Rhino / Grasshopper · Adobe Suite
 
-[CV](Tianye_Wu_CV.docx) · [Design portfolio](Tianye_Wu_Portfolio.pdf) · tw595@cornell.edu
+[CV](Tianye_Wu_CV.pdf) · [Design portfolio](Tianye_Wu_Portfolio.pdf) · tw595@cornell.edu
