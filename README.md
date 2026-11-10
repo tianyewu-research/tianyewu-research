@@ -1,6 +1,6 @@
 # Tianye Wu
 
-**Who benefits from urban green infrastructure — and does that benefit reach the people most exposed to climate risk?**
+**Who benefits from urban green infrastructure and does that benefit reach the people most exposed to climate risk?**
 
 I study the distributional justice of urban green infrastructure under climate stress: who uses urban green space, who captures the benefits of public investment in it, and whether greening protects the residents who need it most. I combine large-scale human-mobility data, spatial econometrics, remote sensing, and street-view imagery to answer these questions. The methods are tools; the question is distributional.
 
@@ -24,4 +24,6 @@ Wu, T., Kong, J., & Shen, X. (2026). Neighborhood socio-racial composition and t
 
 Python (GeoPandas, PySAL/spreg, statsmodels) · ArcGIS / QGIS · Rhino / Grasshopper · Adobe Suite
 
-📄 [CV](LINK) · 🎨 [Design portfolio](LINK) · ✉️ tw595@cornell.edu
+[CV](LINK) 
+[Design portfolio](LINK) 
+tw595@cornell.edu
