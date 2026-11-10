@@ -21,8 +21,4 @@ M.L.A. candidate, Cornell University (2027) · B.Des., Shanghai Jiao Tong Univer
 - **Wu, T.**, Kong, J., & Shen, X. (2026). Neighborhood socio-racial composition and the spatial reach of park visitation in New York City. *Land*, 15(10), 1818. https://doi.org/10.3390/land15101818
 - Qiao, J., Zhu, Z., Qian, J., Hu, S., & **Wu, T.** (under review). Beyond distance: How thermal comfort and built environment shape park visitation, city liveliness, and service equity in Los Angeles. *Urban Forestry & Urban Greening*.
 
-### Tools
-
-Python (GeoPandas, PySAL/spreg, statsmodels) · ArcGIS / QGIS · Rhino / Grasshopper · Adobe Suite
-
 [CV](Tianye_Wu_CV.pdf) · [Design portfolio](Tianye_Wu_Portfolio.pdf) · tw595@cornell.edu
